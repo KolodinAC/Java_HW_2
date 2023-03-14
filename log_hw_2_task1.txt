@@ -1,0 +1,100 @@
+Mar 14, 2023 12:38:09 PM Java_sem_2.java_hw_2.hw_task_1 main
+INFO: Резултат итерации: 
+temp = 6
+nums[i] = 0
+nums[i+1] = 6
+Mar 14, 2023 12:38:09 PM Java_sem_2.java_hw_2.hw_task_1 main
+INFO: Резултат итерации: 
+temp = 6
+nums[i] = 1
+nums[i+1] = 6
+Mar 14, 2023 12:38:09 PM Java_sem_2.java_hw_2.hw_task_1 main
+INFO: Резултат итерации: 
+temp = 6
+nums[i] = 5
+nums[i+1] = 6
+Mar 14, 2023 12:38:09 PM Java_sem_2.java_hw_2.hw_task_1 main
+INFO: Резултат итерации: 
+temp = 28
+nums[i] = 4
+nums[i+1] = 28
+Mar 14, 2023 12:38:09 PM Java_sem_2.java_hw_2.hw_task_1 main
+INFO: Резултат итерации: 
+temp = 28
+nums[i] = 15
+nums[i+1] = 28
+Mar 14, 2023 12:38:09 PM Java_sem_2.java_hw_2.hw_task_1 main
+INFO: Резултат итерации: 
+temp = 28
+nums[i] = 2
+nums[i+1] = 28
+Mar 14, 2023 12:38:09 PM Java_sem_2.java_hw_2.hw_task_1 main
+INFO: Резултат итерации: 
+temp = 28
+nums[i] = 3
+nums[i+1] = 28
+Mar 14, 2023 12:38:09 PM Java_sem_2.java_hw_2.hw_task_1 main
+INFO: Резултат итерации: 
+temp = 11
+nums[i] = 4
+nums[i+1] = 11
+Mar 14, 2023 12:38:09 PM Java_sem_2.java_hw_2.hw_task_1 main
+INFO: Резултат итерации: 
+temp = 15
+nums[i] = 2
+nums[i+1] = 15
+Mar 14, 2023 12:38:09 PM Java_sem_2.java_hw_2.hw_task_1 main
+INFO: Резултат итерации: 
+temp = 15
+nums[i] = 3
+nums[i+1] = 15
+Mar 14, 2023 12:38:09 PM Java_sem_2.java_hw_2.hw_task_1 main
+INFO: Резултат итерации: 
+temp = 6
+nums[i] = 4
+nums[i+1] = 6
+Mar 14, 2023 12:38:09 PM Java_sem_2.java_hw_2.hw_task_1 main
+INFO: Резултат итерации: 
+temp = 11
+nums[i] = 2
+nums[i+1] = 11
+Mar 14, 2023 12:38:09 PM Java_sem_2.java_hw_2.hw_task_1 main
+INFO: Резултат итерации: 
+temp = 11
+nums[i] = 3
+nums[i+1] = 11
+Mar 14, 2023 12:38:09 PM Java_sem_2.java_hw_2.hw_task_1 main
+INFO: Резултат итерации: 
+temp = 5
+nums[i] = 4
+nums[i+1] = 5
+Mar 14, 2023 12:38:09 PM Java_sem_2.java_hw_2.hw_task_1 main
+INFO: Резултат итерации: 
+temp = 6
+nums[i] = 2
+nums[i+1] = 6
+Mar 14, 2023 12:38:09 PM Java_sem_2.java_hw_2.hw_task_1 main
+INFO: Резултат итерации: 
+temp = 6
+nums[i] = 3
+nums[i+1] = 6
+Mar 14, 2023 12:38:09 PM Java_sem_2.java_hw_2.hw_task_1 main
+INFO: Резултат итерации: 
+temp = 5
+nums[i] = 2
+nums[i+1] = 5
+Mar 14, 2023 12:38:09 PM Java_sem_2.java_hw_2.hw_task_1 main
+INFO: Резултат итерации: 
+temp = 5
+nums[i] = 3
+nums[i+1] = 5
+Mar 14, 2023 12:38:09 PM Java_sem_2.java_hw_2.hw_task_1 main
+INFO: Резултат итерации: 
+temp = 4
+nums[i] = 2
+nums[i+1] = 4
+Mar 14, 2023 12:38:09 PM Java_sem_2.java_hw_2.hw_task_1 main
+INFO: Резултат итерации: 
+temp = 4
+nums[i] = 3
+nums[i+1] = 4
